@@ -35,11 +35,9 @@ It performs the following actions:
 
 Ensure the following are available on the host running the script:
 
-    Bash (v4+ recommended)
+    bash
 
     curl with Negotiate/Kerberos support
-
-    Properly configured Kerberos
     
     kinit (Kerberos client utilities)
 
