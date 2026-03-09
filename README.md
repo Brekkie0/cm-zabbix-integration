@@ -52,6 +52,4 @@ Ensure the following are available on the host running the script:
 
     Kerberos authentication must be correctly configured on the host.
 
-    Hardcoded cookies in the upload request may need updating depending on your CM environment.
-
     This is my first script and Git repo. Be nice.
