@@ -1,6 +1,6 @@
 📄 Zabbix x Open Text Content Manager Integration Script
 
-A Bash utility for authenticating to the CM-API using Kerberos and deploying a 1KB test file to a specified record via Zabbix‑provided macros.
+A Bash utility for authenticating to the CM-API using Kerberos and deploying a test file to a specified record via Zabbix‑provided macros.
 
 🚀 Overview
 
